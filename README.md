@@ -17,3 +17,8 @@ Software yang di gunakan
 
 ![image](https://user-images.githubusercontent.com/102352428/211232736-bdd7338e-6b22-4bbe-a489-c45260cdd186.png)
 
+cara mengunakan project ini
+1. install Git
+2. install Fork
+3. lakukan clone dari fork ke server GITHUB dengan alamat URL
+
