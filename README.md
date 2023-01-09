@@ -27,4 +27,4 @@ cara mengunakan project ini
  
  ![image](https://user-images.githubusercontent.com/102352428/211233166-daad9474-e870-4897-901d-aec2b323fea8.png)
 
-
+5. selanjutnya anda install Visual studio 2017 dan database SQL Server 2017
