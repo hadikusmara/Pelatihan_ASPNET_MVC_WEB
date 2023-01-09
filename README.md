@@ -21,4 +21,7 @@ cara mengunakan project ini
 1. install Git
 2. install Fork
 3. lakukan clone dari fork ke server GITHUB dengan alamat URL
+   https://github.com/hadikusmara/Pelatihan_ASPNET_MVC_WEB
+   
+   
 
